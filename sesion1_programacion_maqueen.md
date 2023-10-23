@@ -14,7 +14,7 @@ Usamos los eventos de pulsación de botón para activar el sonido y para paralo
 
 Preparamos una melodía con sonidos intermitentes
 
-![]
+![](./images/melodia_intermitente.png)
 
 [Sonido intermitente v1](https://makecode.microbit.org/S83929-64458-91525-50533)
 
@@ -71,7 +71,7 @@ Vamos a definir las funciones básicas de movimiento del robot maqueen, así pod
 
 [Funciones de movimiento de maqueen](https://makecode.microbit.org/S10944-32339-22929-71481)
 
-## Control de maqueen por radio
+## Control de maqueen por radio
 
 Usaremos la funciones de movimiento para mover nuestro maqueen según lo datos que reciba por radio de otra micro:bit que es la que usaremos para controlar
 

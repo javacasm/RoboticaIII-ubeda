@@ -1,4 +1,4 @@
-# Robotica III
+# Robotica III
 
 ## CEP de Úbeda
 
@@ -12,7 +12,7 @@ Con el presente curso se pretende continuar el camino emprendido en los cursos a
 
 En este caso trabajaremos la electrónica y técnicas más avanzadas de programación.
 
-## Objetivos
+## Objetivos
 
 * Aprender técnicas avanzadas de programación de bloques con micro:bit
 * Realizar montajes de componentes electrónicos con micro:bit
